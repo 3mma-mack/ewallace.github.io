@@ -31,4 +31,4 @@ Some of my lovely Chicago colleagues wrote a perspective on this work - [Heat Sh
 
 *Emma MacKenzie:*
 
-["Accurate differentiation of *Escherichia coli* and *Shigella* serogroups: challenges and strategies](https://doi.org/10.1016/j.nmni.2017.09.003) discusses different methods of differentiating between *E.coli* and *Shigella*. They are extremely similar genetically, and would be considered to be the same species if not for their clinical relevance. I found it to be one of the more interesting papers I came across when preparing for a recent essay. 
+["Accurate differentiation of *Escherichia coli* and *Shigella* serogroups: challenges and strategies"](https://doi.org/10.1016/j.nmni.2017.09.003) discusses different methods of differentiating between *E.coli* and *Shigella*. They are extremely similar genetically, and would be considered to be the same species if not for their clinical relevance. I found it to be one of the more interesting papers I came across when preparing for a recent essay. 
